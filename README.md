@@ -1,3 +1,7 @@
+# __⚠️ ATTENTION: This is a private fork of the px4_msgs repository. Please see [MACH_README.md](MACH_README.md) for Mach-specific information.__
+
+> __The original README content below is retained for reference. Please do not change the content below, unless merging updates from the original px4_msgs repository.__
+
 # px4_msgs
 
 [![GitHub license](https://img.shields.io/github/license/PX4/px4_msgs.svg)](https://github.com/PX4/px4_msg/blob/master/LICENSE) [![Build package](https://github.com/PX4/px4_msgs/workflows/Build%20package/badge.svg)](https://github.com/PX4/px4_msgs/actions)
